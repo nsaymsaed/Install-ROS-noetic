@@ -1,7 +1,10 @@
 # Install-ROS-noetic
 To download the Rose noetic
+
 First, install virtualBox By clicking on the link below 
+
 https://www.virtualbox.org/
+
 Download in the left side, choose one of the packages appropriate to your computerز
 
 # step 2: download Ubuntu 20.04 (MATE)
