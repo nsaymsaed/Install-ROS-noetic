@@ -8,7 +8,7 @@ Download in the left side, choose one of the packages appropriate to your comput
 by this link https://releases.ubuntu.com/focal/
 click Download ubuntu desktop. 
 
-# Steo 3: 
+# Step 3: 
 open virtualBox for creating a virtual machine to run Ubuntu on, follow these steps.
 1- Click New
 2- Choose a name for your environment, and choose the appropriate version of Ubuntu 
