@@ -78,5 +78,5 @@ Ubuntu is ready for using.
 
 https://wiki.ros.org/noetic/Installation/Ubuntu#Installation-1
 
-# You did a great jib, Good luck.
+# You did a great job, Good luck.
  
