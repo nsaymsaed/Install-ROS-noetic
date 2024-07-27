@@ -4,11 +4,11 @@ First, install virtualBox By clicking on the link below
 https://www.virtualbox.org/
 Download in the left side, choose one of the packages appropriate to your computerز
 
-##step 2: download Ubuntu 20.04 (MATE)
+# step 2: download Ubuntu 20.04 (MATE)
 by this link https://releases.ubuntu.com/focal/
 click Download ubuntu desktop. 
 
-#Steo 3: 
+# Steo 3: 
 open virtualBox for creating a virtual machine to run Ubuntu on, follow these steps.
 1- Click New
 2- Choose a name for your environment, and choose the appropriate version of Ubuntu 
@@ -21,7 +21,7 @@ for the type (linux), version (Ununtu(64-bit)) then click next.
 7- Last step in file location and size of the virtual hard disk in megabytes (It’s best to choose from 20.00GB to 30.00 GB ) click Create.
 The virtual invironment of yours is on the left side.
 
-#Step 4:
+# Step 4:
 Now you will start working on the virtual machine's setting.
 1- In general click on advanced and change both of the Shared clipboard, Drag'nDrop to ( Bidirectional )
 This enables file transfer between your primary system and your virtual system.
@@ -31,7 +31,7 @@ This enables file transfer between your primary system and your virtual system.
 3- If you finished all the steps Click ok>
 And click ( start ) in the right side.
 
-#Step 5: 
+# Step 5: 
 When you click Start, you have to wait for a while until the window finishes loading.
 Now follow these steps 
 1- Choose the language that you prefer then click ( install Ubuntu ) 
@@ -49,12 +49,12 @@ Now follow these steps
 7- Click rest now and wait.
 8- Click enter.
 
-#Finally 
+# Finally 
 Ubuntu is ready for using.
 #ROS noetic installation 
 1- Open Terminal.
 2- Follow all the instructions in this link step by step for anstall ROS noetic.
 https://wiki.ros.org/noetic/Installation/Ubuntu#Installation-1
 
-#Done.
+# You did a great jib, Good luck.
  
